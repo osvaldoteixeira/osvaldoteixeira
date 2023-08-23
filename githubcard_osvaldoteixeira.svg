@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 777 1091.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Gradiente_sem_nome_9);
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        fill: #8257e5;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: url(#Gradiente_sem_nome_14);
+      }
+
+      .cls-11 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-12 {
+        fill: url(#Gradiente_sem_nome_4);
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-16 {
+        opacity: .4;
+      }
+
+      .cls-17 {
+        fill: url(#Gradiente_sem_nome_31);
+      }
+
+      .cls-18 {
+        font-family: Inter-Light, Inter;
+        font-size: 16px;
+        font-variation-settings: 'wght' 300, 'slnt' 0;
+        font-weight: 300;
+      }
+
+      .cls-18, .cls-19, .cls-20 {
+        fill: #e1e1e6;
+      }
+
+      .cls-21 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-23 {
+        fill: url(#Gradiente_sem_nome_43);
+      }
+
+      .cls-19 {
+        font-family: Inter-SemiBold, Inter;
+        font-size: 13px;
+        font-variation-settings: 'wght' 600, 'slnt' 0;
+        font-weight: 600;
+      }
+
+      .cls-24 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-25 {
+        fill: #202024;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-28 {
+        fill: url(#Gradiente_sem_nome_2);
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        fill: url(#Gradiente_sem_nome_15);
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        fill: url(#Gradiente_sem_nome_8);
+      }
+
+      .cls-33 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-20 {
+        font-family: Inter-Bold, Inter;
+        font-size: 24.59px;
+        font-variation-settings: 'wght' 700, 'slnt' 0;
+        font-weight: 700;
+      }
+
+      .cls-34 {
+        fill: none;
+      }
+
+      .cls-35 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-36 {
+        mask: url(#mask-1);
+      }
+
+      .cls-37 {
+        mask: url(#mask);
+      }
+
+      .cls-38 {
+        fill: url(#Gradiente_sem_nome_16);
+      }
+
+      .cls-39 {
+        fill: url(#Gradiente_sem_nome_42);
+      }
+
+      .cls-40 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        fill: url(#Gradiente_sem_nome_5);
+      }
+
+      .cls-43 {
+        letter-spacing: -.02em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-34" x="201" y="476.49" width="375" height="615"/>
+    </clipPath>
+    <radialGradient id="Gradiente_sem_nome_2" data-name="Gradiente sem nome 2" cx="201" cy="1091.49" fx="201" fy="1091.49" r="1" gradientTransform="translate(327745.8 60817.49) rotate(-90) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff3d6e"/>
+      <stop offset="1" stop-color="#121214" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_43" data-name="Gradiente sem nome 43" cx="201" cy="1091.49" fx="201" fy="1091.49" r="1" gradientTransform="translate(327922.8 60743.49) rotate(-90) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#228ea8"/>
+      <stop offset="1" stop-color="#121214" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Gradiente_sem_nome_42" data-name="Gradiente sem nome 42" cx="201" cy="1091.49" fx="201" fy="1091.49" r="1" gradientTransform="translate(327745.8 60817.49) rotate(-90) scale(300 -300)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#645ccd"/>
+      <stop offset="1" stop-color="#121214" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="mask" x="201.96" y="0" width="375.04" height="1230.49" maskUnits="userSpaceOnUse">
+      <g id="mask0_" data-name="mask0 ">
+        <rect class="cls-25" x="202" y="418.49" width="375" height="812"/>
+      </g>
+    </mask>
+    <linearGradient id="Gradiente_sem_nome_14" data-name="Gradiente sem nome 14" x1="201.15" y1="1285.58" x2="705.21" y2="1112.16" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f30072"/>
+      <stop offset="1" stop-color="#c4c4cc"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_4" data-name="Gradiente sem nome 4" x1="341.82" y1="958.11" x2="248.94" y2="1116.63" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8257e5"/>
+      <stop offset="1" stop-color="#ff008e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_5" data-name="Gradiente sem nome 5" x1="341.82" y1="1065.52" x2="248.94" y2="1224.04" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8257e5"/>
+      <stop offset="1" stop-color="#ff008e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_15" data-name="Gradiente sem nome 15" x1="295.6" y1="1252.69" x2="481.9" y2="1140.28" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff008e" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00cd1e"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_16" data-name="Gradiente sem nome 16" x1="578.52" y1="977.18" x2="392.23" y2="1089.59" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff008e" stop-opacity="0"/>
+      <stop offset="1" stop-color="#00cd1e"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_8" data-name="Gradiente sem nome 8" x1="439.01" y1="1065.52" x2="531.9" y2="1224.04" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8257e5"/>
+      <stop offset="1" stop-color="#ff008e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Gradiente_sem_nome_9" data-name="Gradiente sem nome 9" x1="345.72" y1="1056.94" x2="438.61" y2="898.42" gradientTransform="translate(0 1567.97) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8257e5"/>
+      <stop offset="1" stop-color="#ff008e" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="mask-1" x="297.93" y="601.78" width="185.3" height="185.08" maskUnits="userSpaceOnUse">
+      <g id="mask1_" data-name="mask1 ">
+        <path class="cls-4" d="m470,648.49v92l-80,46-80-46v-92l80-46,80,46Z"/>
+      </g>
+    </mask>
+    <clipPath id="clippath-1">
+      <path class="cls-34" d="m475.11,745.07v-99.71l-86.61-49.86-86.61,49.86v99.71l86.61,49.86,86.61-49.86Z"/>
+    </clipPath>
+    <linearGradient id="Gradiente_sem_nome_31" data-name="Gradiente sem nome 31" x1="294.9" y1="637.91" x2="480.58" y2="751.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4e54"/>
+      <stop offset="0" stop-color="#4c4d53"/>
+      <stop offset=".07" stop-color="#383e44"/>
+      <stop offset=".15" stop-color="#29333a"/>
+      <stop offset=".25" stop-color="#212c33"/>
+      <stop offset=".4" stop-color="#1f2b32"/>
+      <stop offset=".65" stop-color="#14242a" stop-opacity=".83"/>
+      <stop offset="1" stop-color="#00171a" stop-opacity=".5"/>
+    </linearGradient>
+  </defs>
+  <g id="Camada_1" data-name="Camada 1">
+    <g class="cls-33">
+      <g>
+        <rect class="cls-25" x="201" y="476.49" width="375" height="615"/>
+        <circle class="cls-28" cx="300" cy="517.49" r="300"/>
+        <circle class="cls-23" cx="477" cy="443.49" r="300"/>
+        <circle class="cls-39" cx="300" cy="517.49" r="300"/>
+        <g class="cls-37">
+          <g id="Triângulo_de_cima" data-name="Triângulo de cima">
+            <path class="cls-10" d="m577,586.59V107.79L389.48,0l-187.52,107.79v478.8l187.52,107.79,187.52-107.79Z"/>
+            <g class="cls-16">
+              <path class="cls-12" d="m203.84,479.88v107.4l93.29,53.71,93.29-53.71v-107.4l-93.29-53.71-93.29,53.71Z"/>
+              <path class="cls-42" d="m203.84,372.47v107.4l93.29,53.71,93.29-53.71v-107.4l-93.29-53.71-93.29,53.71Z"/>
+              <path class="cls-30" d="m483.71,318.79v107.4l-93.29,53.71-93.29-53.71v-107.4l93.29-53.71,93.29,53.71Z"/>
+              <path class="cls-38" d="m390.42,587.28v-107.4l93.29-53.71,93.29,53.71v107.4l-93.29,53.71-93.29-53.71Z"/>
+              <path class="cls-32" d="m577,372.47v107.4l-93.29,53.71-93.29-53.71v-107.4l93.29-53.71,93.29,53.71Z"/>
+              <path class="cls-1" d="m483.71,641.01v-107.4l-93.29-53.71-93.29,53.71v107.4l93.29,53.71,93.29-53.71Z"/>
+            </g>
+          </g>
+        </g>
+        <g class="cls-36">
+          <g id="Mascara_de_circle" data-name="Mascara de circle">
+            <ellipse class="cls-34" cx="390.58" cy="694.32" rx="92.65" ry="92.54"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Camada_2" data-name="Camada 2">
+    <g class="cls-22">
+      <path class="cls-17" d="m481.79,748.92v-107.4l-93.29-53.71-93.29,53.71v107.4l93.29,53.71,93.29-53.71Z"/>
+      <image width="1440" height="1920" transform="translate(301.89 595.51) scale(.12)" xlink:href="../../OneDrive/Imagens/Photoshop/avatar-github-osvaldoteixeira.png"/>
+    </g>
+  </g>
+  <g id="Meus_Textos" data-name="Meus Textos">
+    <text class="cls-20" transform="translate(288.87 838.72)"><tspan x="0" y="0">Os</tspan><tspan class="cls-15" x="33.04" y="0">v</tspan><tspan x="47.08" y="0">aldo </tspan><tspan class="cls-11" x="104.45" y="0">T</tspan><tspan x="118.93" y="0">ei</tspan><tspan class="cls-3" x="140.32" y="0">x</tspan><tspan x="153.93" y="0">ei</tspan><tspan class="cls-27" x="175.32" y="0">r</tspan><tspan x="184.99" y="0">a</tspan></text>
+    <text class="cls-18" transform="translate(323.99 870.64)"><tspan x="0" y="0">@os</tspan><tspan class="cls-35" x="32.64" y="0">v</tspan><tspan x="41.09" y="0">aldo</tspan><tspan class="cls-41" x="72.94" y="0">t</tspan><tspan x="78.58" y="0">ei</tspan><tspan class="cls-40" x="91.58" y="0">x</tspan><tspan class="cls-31" x="99.65" y="0">eira</tspan></text>
+    <text class="cls-19" transform="translate(249.37 924.5)"><tspan class="cls-7" x="0" y="0">F</tspan><tspan class="cls-2" x="7.51" y="0">r</tspan><tspan x="12.37" y="0">on</tspan><tspan class="cls-5" x="28.2" y="0">t</tspan><tspan x="32.91" y="0">-end d</tspan><tspan class="cls-43" x="74.21" y="0">e</tspan><tspan class="cls-14" x="81.71" y="0">v</tspan><tspan x="88.95" y="0">eloper and p</tspan><tspan class="cls-6" x="167.1" y="0">r</tspan><tspan x="171.96" y="0">og</tspan><tspan class="cls-21" x="187.99" y="0">r</tspan><tspan class="cls-29" x="193.01" y="0">ammer junio</tspan><tspan class="cls-24" x="270.43" y="0">r</tspan><tspan class="cls-2" x="274.77" y="0">.</tspan><tspan x="8.2" y="26">I study p</tspan><tspan class="cls-2" x="62.02" y="26">r</tspan><tspan class="cls-26" x="66.88" y="26">og</tspan><tspan class="cls-21" x="82.91" y="26">r</tspan><tspan class="cls-29" x="87.93" y="26">amming and design </tspan><tspan class="cls-8" x="213.94" y="26">t</tspan><tspan class="cls-26" x="218.8" y="26">o c</tspan><tspan class="cls-6" x="237.44" y="26">r</tspan><tspan x="242.3" y="26">ea</tspan><tspan class="cls-9" x="257.48" y="26">t</tspan><tspan x="262.34" y="26">e</tspan><tspan class="cls-43" x="46.36" y="52">e</tspan><tspan class="cls-14" x="53.86" y="52">v</tspan><tspan x="61.1" y="52">er mo</tspan><tspan class="cls-6" x="96.76" y="52">r</tspan><tspan x="101.62" y="52">e beautiful </tspan><tspan class="cls-13" x="171.58" y="52">w</tspan><tspan x="182.28" y="52">ebsi</tspan><tspan class="cls-8" x="208.7" y="52">t</tspan><tspan x="213.57" y="52">es</tspan><tspan class="cls-6" x="228.41" y="52">.</tspan></text>
+  </g>
+</svg>
