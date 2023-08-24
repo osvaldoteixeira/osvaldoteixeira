@@ -17,8 +17,7 @@ to create ever more beautiful websites.
 
 👨‍💻 I'm currently studying TypeScript.
 
-🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch. I needed to have control over the structure, appearance, behavior and functionality.
-
+<!-- 🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch. I needed to have control over the structure, appearance, behavior and functionality. -->
 🛠️ In the future I will be creating a portfolio with my projects here on GitHub.
 
 <!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
