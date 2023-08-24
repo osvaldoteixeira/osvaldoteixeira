@@ -75,7 +75,7 @@ to create ever more beautiful websites.
 </a>
 <a href="https://www.youtube.com/@osvaldobtjr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a> -->
+</a>
 </p>
 
 <!--
