@@ -17,7 +17,8 @@ to create ever more beautiful websites.
 
 👨‍💻 I'm currently studying TypeScript.
 
-<!-- 🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch. I needed to have control over the structure, appearance, behavior and functionality. -->
+🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch. I needed to have control over the structure, appearance, behavior and functionality.
+
 🛠️ In the future I will be creating a portfolio with my projects here on GitHub.
 
 <!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
@@ -37,7 +38,7 @@ to create ever more beautiful websites.
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p> -->
 
-## 🛠 &nbsp;Tech Stack
+<!--## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
