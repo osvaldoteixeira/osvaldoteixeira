@@ -66,6 +66,10 @@ to create ever more beautiful websites.
     <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 
+  <a href="https://t.me/osvaldobtjr" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=telegram" alt="telegram"/>
+  </a>
+
   <a href="mailto:osvaldobtjr@gmail.com" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="gmail"/>
   </a>
@@ -73,15 +77,18 @@ to create ever more beautiful websites.
   <!--<a href="https://codepen.io/osvaldoteixeira" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-osvaldoteixeira-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>-->
-  <a href="https://twitter.com/osvaldobtjr" target="_blank">
+  
+  <!-- <a href="https://twitter.com/osvaldobtjr" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>
-  <a href="https://www.instagram.com/osvaldobtjr" target="_blank">
+  </a>-->
+  
+  <!-- <a href="https://www.instagram.com/osvaldobtjr" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-<!--<a href="https://www.youtube.com/@osvaldobtjr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>-->
+  </a>-->
+  
+  <!--<a href="https://www.youtube.com/@osvaldobtjr" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=youtube" alt="youtube"/>
+  </a>-->
 </p>
 
 <!--**osvaldoteixeira/osvaldoteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
