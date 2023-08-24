@@ -66,10 +66,10 @@ to create ever more beautiful websites.
 <a href="https://codepen.io/osvaldoteixeira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-osvaldoteixeira-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<!-- <a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+<a href="https://https://twitter.com/osvaldobtjr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<!-- <a href="https://linkedin.com/in/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/maykbrito" target="_blank">
