@@ -66,7 +66,7 @@ to create ever more beautiful websites.
 <a href="https://codepen.io/osvaldoteixeira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-osvaldoteixeira-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<!-- <a href="https://twitter.com/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/maykbrito" target="_blank">
@@ -77,7 +77,7 @@ to create ever more beautiful websites.
 </a>
 <a href="https://youtube.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+</a> -->
 </p>
 
 <!--
