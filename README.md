@@ -56,7 +56,7 @@ to create ever more beautiful websites.
 
 ## 📩 Contact
 
-<p align="right" style="background:yellow">
+<p align="left" style="background:yellow">
 
   <a href="https://www.linkedin.com/in/osvaldobtjr" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
