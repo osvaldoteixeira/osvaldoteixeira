@@ -1,5 +1,3 @@
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/> -->
-
 <img align="right" height="590em" src="https://github.com/osvaldoteixeira/files/blob/main/githubcard-osvaldo-teixeira.svg"/>
 
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/osvaldoteixeira/files/main/imagem-osvaldoteixeira.svg"/> -->
@@ -69,10 +67,10 @@ to create ever more beautiful websites.
 <a href="https://twitter.com/osvaldobtjr" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<!-- <a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/osvaldobtjr" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<!-- <a href="https://instagram.com/maykbrito" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/maykbrito" target="_blank">
