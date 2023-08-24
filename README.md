@@ -9,11 +9,17 @@
 
 
 
-- 🔥 Front-end developer and programmer
+🔥 Front-end developer and programmer
 Junior. I study programming and design
 to create ever more beautiful websites. 
 
-- 🔭 I'm looking for an opportunity in programming and web development.
+🔭 I'm looking for an opportunity in programming and web development.
+
+👨‍💼 I have knowledge in HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React, NodeJS and PHP.
+
+👨‍💻 I'm currently studying TypeScript.
+
+🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch.
 
 <!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
