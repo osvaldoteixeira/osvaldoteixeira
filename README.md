@@ -15,7 +15,7 @@ to create ever more beautiful websites.
 
 🔭 I'm looking for an opportunity in programming and web development.
 
-👨‍💼 I have knowledge in HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React, NodeJS and PHP.
+👨‍💼 I have knowledge in HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, React and the basics in NodeJS and PHP.
 
 👨‍💻 I'm currently studying TypeScript.
 
