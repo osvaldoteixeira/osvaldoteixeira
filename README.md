@@ -34,8 +34,8 @@ to create ever more beautiful websites.
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<!-- <img align="left" width="382em" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/> -->
-<img align="left" width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
 <br>
