@@ -62,12 +62,12 @@ to create ever more beautiful websites.
 
 <p align="left" style="background:yellow">
 
-  <a href="mailto:osvaldobtjr@gmail.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="gmail"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/osvaldobtjr" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+
+  <a href="mailto:osvaldobtjr@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="gmail"/>
   </a>
   
   <!--<a href="https://codepen.io/osvaldoteixeira" target="_blank">
