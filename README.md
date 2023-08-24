@@ -29,7 +29,7 @@ to create ever more beautiful websites.
 
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
