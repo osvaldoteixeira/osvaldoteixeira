@@ -30,14 +30,12 @@ to create ever more beautiful websites.
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/> -->
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br>
+</p> -->
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -52,6 +50,8 @@ to create ever more beautiful websites.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 <!-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
+
+<br>
 
 ## 📩 Contact
 
