@@ -76,8 +76,8 @@ to create ever more beautiful websites.
 <!--<a href="https://www.youtube.com/@osvaldobtjr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>-->
-<a href="https://mailto:osvaldobtjr@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="youtube"/>
+<a href="mailto:osvaldobtjr@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
 
