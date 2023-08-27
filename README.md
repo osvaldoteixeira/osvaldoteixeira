@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldoteixeira&color=blue" alt="Profile views" /> </p>
 
 
+🔥 Web Developer.
 
-🔥 Front-end developer and programmer
-Junior. I study programming and design
-to create ever more beautiful websites. 
+"I study programming and design
+to create ever more beautiful websites."
 
 🔭 I'm looking for an opportunity in programming and web development.
 
@@ -19,7 +19,7 @@ to create ever more beautiful websites.
 
 🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch. I needed to have control over the structure, appearance, behavior and functionality.
 
-🛠️ In the future I will be creating a portfolio with my projects here on GitHub.
+🛠️ In the future I will be creating a portfolio with my projects here GitHub.
 
 <!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
