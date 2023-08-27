@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osvaldoteixeira&color=blue" alt="Profile views" /> </p>
 
 
-🔥 Web Developer.
+💻 Web Developer.
 
 "I study programming and design
 to create ever more beautiful websites."
