@@ -31,6 +31,12 @@ to create ever more beautiful websites."
 
 <br>
 
+<div>
+  <a href="https://github.com/juniortex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniortex&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniortex&layout=compact&langs_count=6&theme=github_dark"/>
+</div>
+
 <!-- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
