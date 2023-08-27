@@ -31,35 +31,6 @@ to create ever more beautiful websites."
 
 <br>
 
-<div>
-  <a href="https://github.com/osvaldoteixeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&langs_count=6&theme=github_dark"/>
-</div>
-
-<!-- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p> -->
-
-<!--## 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
-<!-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
-
-<br>
-
 ## 📩 Contact
 
 <p align="left" style="background:yellow">
@@ -92,6 +63,36 @@ to create ever more beautiful websites."
    <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a>-->
 </p>
+
+<br>
+
+<div>
+  <a href="https://github.com/osvaldoteixeira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&langs_count=6&theme=github_dark"/>
+</div>
+
+<!-- ## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p> -->
+
+<!--## 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
+<!-- ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
+
 
 <!--**osvaldoteixeira/osvaldoteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
