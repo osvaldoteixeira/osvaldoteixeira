@@ -68,7 +68,7 @@ to create ever more beautiful websites."
 
 <div>
   <a href="https://github.com/osvaldoteixeira">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img align="right" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
