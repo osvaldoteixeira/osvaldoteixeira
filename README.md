@@ -19,16 +19,6 @@ to create ever more beautiful websites."
 
 🌐 I started making websites and blogs with Wordpress, but I always felt the need to start creating websites from scratch. I needed to have control over the structure, appearance, behavior and functionality.
 
-🛠️ In the future I will be creating a portfolio with my projects here GitHub.
-
-<!-- - ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
-
 <br>
 
 ## 📩 Contact
@@ -47,39 +37,19 @@ to create ever more beautiful websites."
    <img align="center" src="https://img.shields.io/badge/-email-05122A?style=flat&logo=gmail" alt="gmail"/>
   </a>
   
-  <!--<a href="https://codepen.io/osvaldoteixeira" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-osvaldoteixeira-05122A?style=flat&logo=codepen" alt="codepen"/>
-  </a>-->
-  
-  <!-- <a href="https://twitter.com/osvaldobtjr" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>-->
-  
-  <!-- <a href="https://www.instagram.com/osvaldobtjr" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>-->
-  
-  <!--<a href="https://www.youtube.com/@osvaldobtjr" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-osvaldobtjr-05122A?style=flat&logo=youtube" alt="youtube"/>
-  </a>-->
 </p>
 
 <br>
 
 <div>
   <a href="https://github.com/osvaldoteixeira">
-  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&langs_count=6&theme=github_dark"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
+    
+<br>
 
-<!-- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osvaldoteixeira&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osvaldoteixeira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p> -->
-
-<!--## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
